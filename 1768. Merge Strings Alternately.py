@@ -14,4 +14,3 @@ class Solution(object):
                 result += word2[i]
             i+=1
         return result
-    
